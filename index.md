@@ -29,3 +29,5 @@ My projects often integrate computational modeling (ANSYS, Abaqus), additive man
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+***For collaborations or inquiries, feel free to reach out via yanyuwei0820@gmail.com.***
