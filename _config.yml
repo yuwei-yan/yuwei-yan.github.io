@@ -2,7 +2,7 @@
 title: Yuwei Yan
 position: Ph.D. Student
 affiliation: University of Macau
-email: yuwei.yan (at) sydney.edu.au
+email: yuwei.yan@sydney.edu.au
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -20,9 +20,9 @@ linkedin: https://www.linkedin.com/in/yuwei-yan-98b78a1ba/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: ./assets/img/Yuwei Yan.jpeg
+favicon: ./assets/img/YY_favicon.ico
+favicon_dark: ./assets/img/YY_favicon.ico
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
