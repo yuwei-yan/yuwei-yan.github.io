@@ -7,7 +7,7 @@ main:
     pdf: https://doi.org/10.3390/ijms25126522
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/In vitro model of brain.png
+    image: ./assets/img/In vitro model of Brain.png
     notes: Review
 
   - title: "Control Method of Modular Deformable Aircraft"
