@@ -6,17 +6,28 @@ main:
     conference: International Journal of Molecular Sciences <strong>(IJMS)</strong>, 2024.
     pdf: https://doi.org/10.3390/ijms25126522
     # code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
     notes: Review
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+  - title: "Control Method of Modular Deformable Aircraft"
+    authors: Jianan Wang, Yuda Chen, Xiaowei Lan, <strong>Yuwei Yan</strong>, Jie Li, Yu Zhang
+    conference_short: CN Patent
+    conference: CN Patent: <strong>CN113253753B</strong>, Accessed September 9, 2022.
+    pdf: https://patents.google.com/patent/CN113253753B/en?oq=CN113253753B
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Patent
+    image: ./assets/img/teaser_example.png
+
+  - title: "Modularized Deformable Unmanned Aerial Vehicle Structure"
+    authors: Jianan Wang, Yuda Chen, Xiaowei Lan, <strong>Yuwei Yan</strong>, Jie Li, Yu Zhang
+    conference_short: CN Patent
+    conference: CN Patent: <strong>CN113104213B</strong>, Accessed July 5, 2022.
+    pdf: https://patents.google.com/patent/CN113104213B/en?oq=CN113104213B
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Patent
     image: ./assets/img/teaser_example.png
