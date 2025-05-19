@@ -13,7 +13,7 @@ main:
   - title: "Control Method of Modular Deformable Aircraft"
     authors: Jianan Wang, Yuda Chen, Xiaowei Lan, <strong>Yuwei Yan</strong>, Jie Li, Yu Zhang
     conference_short: CN Patent
-    conference: CN Patent: <strong>CN113253753B</strong>, Accessed September 9, 2022.
+    conference: CN Patent <strong>CN113253753B</strong>, Accessed September 9, 2022.
     pdf: https://patents.google.com/patent/CN113253753B/en?oq=CN113253753B
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -24,7 +24,7 @@ main:
   - title: "Modularized Deformable Unmanned Aerial Vehicle Structure"
     authors: Jianan Wang, Yuda Chen, Xiaowei Lan, <strong>Yuwei Yan</strong>, Jie Li, Yu Zhang
     conference_short: CN Patent
-    conference: CN Patent: <strong>CN113104213B</strong>, Accessed July 5, 2022.
+    conference: CN Patent <strong>CN113104213B</strong>, Accessed July 5, 2022.
     pdf: https://patents.google.com/patent/CN113104213B/en?oq=CN113104213B
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
