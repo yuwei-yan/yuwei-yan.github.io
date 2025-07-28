@@ -30,4 +30,6 @@ My projects often integrate computational modeling (ANSYS, Abaqus), additive man
 
 {% include_relative _includes/awards.md %}
 
+{% include_relative _includes/funfacts.md %}
+
 ***For collaborations or inquiries, feel free to reach out via <a href="mailto: yanyuwei0820@gmail.com">yanyuwei0820@gmail.com</a>.***
